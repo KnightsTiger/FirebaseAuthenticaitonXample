@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseAuthenticaitonXample</string>
+    <string name="default_web_client_id">TODO manju default web client id</string>
+</resources>
